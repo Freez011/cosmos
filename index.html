@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>КОСМОС 65 | Главная</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="main-header">
+    <div class="container nav-box">
+        <a href="index.html" class="logo">КОСМОС 65</a>
+        <nav>
+            <a href="index.html" class="active">Главная</a>
+            <a href="timeline.html">Хроника</a>
+            <a href="history.html">Летопись</a>
+            <a href="media.html">Медиа</a>
+            <a href="docs.html">Документы</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero-section">
+    <!-- Фоновое видео: старт Гагарина -->
+    <video class="bg-video" autoplay muted loop playsinline>
+        <source src="img/gagarin_launch.mp4" type="video/mp4">
+        <!-- Если видео не загрузится, браузер покажет чёрный фон (без ошибки) -->
+    </video>
+    
+    <div class="hero-overlay"></div>
+    
+    <div class="container">
+        <span style="color: var(--gold); letter-spacing: 3px; text-transform: uppercase;">К 65-летию великого полета</span>
+        <h1>ПЕРВЫЙ В КОСМОСЕ</h1>
+        <p class="hero-text">Масштабный портал о людях, машинах и решениях, которые позволили человечеству сделать главный шаг в неизведанное. Выберите раздел для начала погружения.</p>
+        
+        <div class="nav-grid">
+            <a href="timeline.html" class="nav-card">
+                <h3>Хроника ➔</h3>
+                <p>Таймлайн ключевых событий: от первых ракет до орбитальных станций.</p>
+            </a>
+            <a href="history.html" class="nav-card">
+                <h3>Летопись ➔</h3>
+                <p>Подробный разбор технологий, корабля «Восток» и подготовки пилотов.</p>
+            </a>
+            <a href="media.html" class="nav-card">
+                <h3>Аудиоархив ➔</h3>
+                <p>Интерактивный плеер с голосами эпохи и легендарными песнями.</p>
+            </a>
+            <a href="docs.html" class="nav-card">
+                <h3>Документы ➔</h3>
+                <p>Рассекреченные приказы и стенограммы переговоров Гагарина.</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
