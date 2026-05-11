@@ -490,3 +490,73 @@ table img {
     height: auto;
     border-radius: 4px;
 }
+
+/* ===== СТРАНИЦА КОСМОНАВТОВ ===== */
+.cosmonauts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.cosmonaut-card {
+    background: var(--card-bg);
+    border: 1px solid var(--gold-dim);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, border-color 0.3s;
+    display: flex;
+    flex-direction: column;
+}
+.cosmonaut-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--gold);
+}
+.cosmonaut-img-wrapper {
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+}
+.cosmonaut-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: filter 0.3s;
+}
+.cosmonaut-card:hover .cosmonaut-img {
+    filter: grayscale(20%);
+}
+.cosmonaut-info {
+    padding: 20px;
+}
+.cosmonaut-name {
+    color: var(--gold);
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4rem;
+    margin: 0 0 5px;
+}
+.cosmonaut-dates {
+    display: inline-block;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 12px;
+    border-left: 2px solid var(--gold);
+    padding-left: 8px;
+}
+.cosmonaut-bio {
+    color: var(--text);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+.cosmonaut-missions {
+    font-size: 0.8rem;
+    color: var(--gold);
+    font-family: monospace;
+    border-top: 1px dashed var(--gold-dim);
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.compact .cosmonaut-img {
+    height: 200px;
+}
