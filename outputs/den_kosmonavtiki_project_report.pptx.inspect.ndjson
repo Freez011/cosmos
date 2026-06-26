@@ -1,0 +1,216 @@
+{"kind":"deck","id":"pr/6jr8rk","name":"Deck"}
+{"kind":"layout","layoutId":"c2d1718e-902b-408d-80e9-0d4c2721390c","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3d6acab8-b033-47ec-9c2c-c5cde4731a02","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/dfd7nd","slide":1,"title":"ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ","textShapes":14}
+{"kind":"shape","id":"sh/9w3m94fu","slide":1,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":1,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":1,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":1,"name":"course","text":"ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ","textPreview":"ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ","textChars":35,"textLines":1,"bbox":[72,62,760,28]}
+{"kind":"textbox","id":"sh/9knih4by","slide":1,"name":"main-title","text":"День космонавтики","textPreview":"День космонавтики","textChars":17,"textLines":1,"bbox":[72,155,780,72]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":1,"name":"subtitle","text":"Цифровой музей о российской космической программе","textPreview":"Цифровой музей о российской космической программе","textChars":49,"textLines":1,"bbox":[76,242,690,44]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":1,"name":"accent-gold","bbox":[76,316,154,4]}
+{"kind":"shape","id":"sh/gvy90je9","slide":1,"name":"accent-cyan","bbox":[230,316,78.4,4]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":1,"name":"accent-red","bbox":[308.4,316,47.6,4]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":1,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,363,24,30]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":1,"name":"bullet","text":"веб-сайт вместо обычного реферата","textPreview":"веб-сайт вместо обычного реферата","textChars":33,"textLines":1,"bbox":[108,365,618,46]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":1,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,421,24,30]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":1,"name":"bullet","text":"история космоса как пример суверенитета","textPreview":"история космоса как пример суверенитета","textChars":39,"textLines":1,"bbox":[108,423,618,46]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":1,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,479,24,30]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":1,"name":"bullet","text":"архивы, люди и государственная координация","textPreview":"архивы, люди и государственная координация","textChars":42,"textLines":1,"bbox":[108,481,618,46]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":1,"name":"photo-placeholder","bbox":[820,110,340,420]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":1,"name":"accent-gold","bbox":[820,110,187,4]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":1,"name":"accent-cyan","bbox":[1007,110,95.2,4]}
+{"kind":"shape","id":"sh/oj2t83it","slide":1,"name":"accent-red","bbox":[1102.2,110,57.8,4]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":1,"name":"photo-label","text":"Главный визуал проекта","textPreview":"Главный визуал проекта","textChars":22,"textLines":1,"bbox":[848,286,284,34]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":1,"name":"photo-sub","text":"фото Гагарина / старт ракеты","textPreview":"фото Гагарина / старт ракеты","textChars":28,"textLines":1,"bbox":[848,324,284,30]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":1,"name":"participants","text":"Участники: Всеволод, Сергей, Иван","textPreview":"Участники: Всеволод, Сергей, Иван","textChars":33,"textLines":1,"bbox":[76,610,620,28]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":1,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":1,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"notes","id":"nt/dfd7nd","slide":1,"text":"Всеволод: Здравствуйте! Наш проект посвящён Дню космонавтики.\nМы решили выйти за рамки обычного реферата и сделали полноценный веб-сайт - цифровой музей.\nКосмическая программа для нас стала примером национальной гордости, суверенитета и способности государства объединять людей ради большой цели."}
+{"kind":"slide","id":"sl/fw6l7a","slide":2,"title":"Структура проекта","textShapes":16}
+{"kind":"shape","id":"sh/1orytsvu","slide":2,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":2,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":2,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":2,"name":"eyebrow","text":"Структура проекта","textPreview":"Структура проекта","textChars":17,"textLines":1,"bbox":[72,44,620,28]}
+{"kind":"textbox","id":"sh/1032lszq","slide":2,"name":"title","text":"Как устроен сайт","textPreview":"Как устроен сайт","textChars":16,"textLines":1,"bbox":[72,82,860,96]}
+{"kind":"shape","id":"sh/u9knih4b","slide":2,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/judg7ads","slide":2,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"shape","id":"sh/54zidony","slide":2,"name":"photo-placeholder","bbox":[730,98,420,250]}
+{"kind":"shape","id":"sh/t47y1kre","slide":2,"name":"accent-gold","bbox":[730,98,231,4]}
+{"kind":"shape","id":"sh/0je9cvix","slide":2,"name":"accent-cyan","bbox":[961,98,117.6,4]}
+{"kind":"shape","id":"sh/byhgn29g","slide":2,"name":"accent-red","bbox":[1078.6,98,71.4,4]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":2,"name":"photo-label","text":"Скриншот главной страницы","textPreview":"Скриншот главной страницы","textChars":25,"textLines":1,"bbox":[758,189,364,34]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"name":"photo-sub","text":"вставить скрин сайта","textPreview":"вставить скрин сайта","textChars":20,"textLines":1,"bbox":[758,227,364,30]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":2,"name":"photo-placeholder","bbox":[730,378,420,190]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"name":"accent-gold","bbox":[730,378,231,4]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":2,"name":"accent-cyan","bbox":[961,378,117.6,4]}
+{"kind":"shape","id":"sh/tovahoza","slide":2,"name":"accent-red","bbox":[1078.6,378,71.4,4]}
+{"kind":"textbox","id":"sh/032lszqt","slide":2,"name":"photo-label","text":"Скриншоты разделов","textPreview":"Скриншоты разделов","textChars":18,"textLines":1,"bbox":[758,439,364,34]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":2,"name":"photo-sub","text":"Хроника / Летопись / Отряд / Документы","textPreview":"Хроника / Летопись / Отряд / Документы","textChars":38,"textLines":1,"bbox":[758,477,364,30]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":2,"name":"section-card","bbox":[72,210,560,62]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":2,"name":"section-name","text":"Хроника","textPreview":"Хроника","textChars":7,"textLines":1,"bbox":[96,223,150,28]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":2,"name":"section-desc","text":"ключевые события в формате таймлайна","textPreview":"ключевые события в формате таймлайна","textChars":36,"textLines":1,"bbox":[250,227,350,24]}
+{"kind":"shape","id":"sh/cbulwval","slide":2,"name":"section-card","bbox":[72,296,560,62]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":2,"name":"section-name","text":"Летопись","textPreview":"Летопись","textChars":8,"textLines":1,"bbox":[96,309,150,28]}
+{"kind":"textbox","id":"sh/u54zidon","slide":2,"name":"section-desc","text":"развёрнутый исторический и технический контекст","textPreview":"развёрнутый исторический и технический контекст","textChars":47,"textLines":1,"bbox":[250,313,350,24]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":2,"name":"section-card","bbox":[72,382,560,62]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":2,"name":"section-name","text":"Отряд","textPreview":"Отряд","textChars":5,"textLines":1,"bbox":[96,395,150,28]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":2,"name":"section-desc","text":"первые космонавты и их биографии","textPreview":"первые космонавты и их биографии","textChars":32,"textLines":1,"bbox":[250,399,350,24]}
+{"kind":"shape","id":"sh/v6psfil0","slide":2,"name":"section-card","bbox":[72,468,560,62]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":2,"name":"section-name","text":"Документы","textPreview":"Документы","textChars":9,"textLines":1,"bbox":[96,481,150,28]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":2,"name":"section-desc","text":"архивные материалы и свидетельства эпохи","textPreview":"архивные материалы и свидетельства эпохи","textChars":40,"textLines":1,"bbox":[250,485,350,24]}
+{"kind":"notes","id":"nt/fw6l7a","slide":2,"text":"Всеволод: Мы проектировали сайт так, чтобы информация не выглядела сухой.\nКонтент разделён на четыре ключевых блока: Хроника, Летопись, Отряд и Документы.\nДальше мы покажем, как через эти разделы раскрывается роль государства в космическом прорыве."}
+{"kind":"slide","id":"sl/z1wvm6","slide":3,"title":"Государство как организатор развития","textShapes":20}
+{"kind":"shape","id":"sh/7ed8bat4","slide":3,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0z61032l","slide":3,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":3,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":3,"name":"eyebrow","text":"Государство как организатор развития","textPreview":"Государство как организатор развития","textChars":36,"textLines":1,"bbox":[72,44,620,28]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":3,"name":"title","text":"Хроника и летопись прорыва","textPreview":"Хроника и летопись прорыва","textChars":26,"textLines":1,"bbox":[72,82,860,96]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":3,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":3,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":3,"name":"photo-placeholder","bbox":[720,104,430,230]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":3,"name":"accent-gold","bbox":[720,104,236.5,4]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":3,"name":"accent-cyan","bbox":[956.5,104,120.4,4]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":3,"name":"accent-red","bbox":[1076.9,104,73.1,4]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":3,"name":"photo-label","text":"Скриншот таймлайна","textPreview":"Скриншот таймлайна","textChars":18,"textLines":1,"bbox":[748,185,374,34]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":3,"name":"photo-sub","text":"раздел «Хроника»","textPreview":"раздел «Хроника»","textChars":16,"textLines":1,"bbox":[748,223,374,30]}
+{"kind":"shape","id":"sh/yd0z6103","slide":3,"name":"photo-placeholder","bbox":[720,366,430,180]}
+{"kind":"shape","id":"sh/90je9cvi","slide":3,"name":"accent-gold","bbox":[720,366,236.5,4]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":3,"name":"accent-cyan","bbox":[956.5,366,120.4,4]}
+{"kind":"shape","id":"sh/r65wjudg","slide":3,"name":"accent-red","bbox":[1076.9,366,73.1,4]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":3,"name":"photo-label","text":"Скриншот исторического блока","textPreview":"Скриншот исторического блока","textChars":28,"textLines":1,"bbox":[748,422,374,34]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"name":"photo-sub","text":"раздел «Летопись»","textPreview":"раздел «Летопись»","textChars":17,"textLines":1,"bbox":[748,460,374,30]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,208,24,30]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":3,"name":"bullet","text":"послевоенная страна делает ставку на технологии будущего","textPreview":"послевоенная страна делает ставку на технологии будущего","textChars":56,"textLines":1,"bbox":[108,210,538,46]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":3,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,268,24,30]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"name":"bullet","text":"создание сложнейших систем с нуля","textPreview":"создание сложнейших систем с нуля","textChars":33,"textLines":1,"bbox":[108,270,538,46]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":3,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,328,24,30]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"name":"bullet","text":"пример технологического суверенитета","textPreview":"пример технологического суверенитета","textChars":36,"textLines":1,"bbox":[108,330,538,46]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":3,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,388,24,30]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"name":"bullet","text":"наука, промышленность и управление работают как единая система","textPreview":"наука, промышленность и управление работают как единая система","textChars":62,"textLines":1,"bbox":[108,390,538,46]}
+{"kind":"shape","id":"sh/vy90je9c","slide":3,"name":"tag","bbox":[80,548,100,38]}
+{"kind":"textbox","id":"sh/lwval87e","slide":3,"name":"tag-text","text":"1946","textPreview":"1946","textChars":4,"textLines":1,"bbox":[80,556,100,20]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":3,"name":"tag","bbox":[198,548,100,38]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":3,"name":"tag-text","text":"1957","textPreview":"1957","textChars":4,"textLines":1,"bbox":[198,556,100,20]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":3,"name":"tag","bbox":[316,548,100,38]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":3,"name":"tag-text","text":"1961","textPreview":"1961","textChars":4,"textLines":1,"bbox":[316,556,100,20]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":3,"name":"tag","bbox":[434,548,100,38]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":3,"name":"tag-text","text":"1965","textPreview":"1965","textChars":4,"textLines":1,"bbox":[434,556,100,20]}
+{"kind":"notes","id":"nt/z1wvm6","slide":3,"text":"Сергей: В разделах Хроника и Летопись видно, что за каждым событием стоит огромная работа управленцев, инженеров и заводов.\nПосле войны страна всё равно принимает стратегическое решение вкладываться в науку и технологии будущего.\nЭто хороший пример технологического суверенитета: страна сама создаёт сложнейшие вещи и не зависит от чужих решений."}
+{"kind":"slide","id":"sl/snwdeh","slide":4,"title":"Космос как управленческий механизм","textShapes":16}
+{"kind":"shape","id":"sh/zidonyd0","slide":4,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":4,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":4,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":4,"name":"eyebrow","text":"Космос как управленческий механизм","textPreview":"Космос как управленческий механизм","textChars":34,"textLines":1,"bbox":[72,44,620,28]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":4,"name":"title","text":"Архивные документы","textPreview":"Архивные документы","textChars":18,"textLines":1,"bbox":[72,82,860,96]}
+{"kind":"shape","id":"sh/svu9knih","slide":4,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":4,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":4,"name":"photo-placeholder","bbox":[704,104,450,250]}
+{"kind":"shape","id":"sh/bat47y1k","slide":4,"name":"accent-gold","bbox":[704,104,247.5,4]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":4,"name":"accent-cyan","bbox":[951.5,104,126,4]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":4,"name":"accent-red","bbox":[1077.5,104,76.5,4]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":4,"name":"photo-label","text":"Скриншот раздела «Документы»","textPreview":"Скриншот раздела «Документы»","textChars":28,"textLines":1,"bbox":[732,195,394,34]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":4,"name":"photo-sub","text":"карточки приказов и постановлений","textPreview":"карточки приказов и постановлений","textChars":33,"textLines":1,"bbox":[732,233,394,30]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":4,"name":"photo-placeholder","bbox":[704,382,450,170]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":4,"name":"accent-gold","bbox":[704,382,247.5,4]}
+{"kind":"shape","id":"sh/47y1kre1","slide":4,"name":"accent-cyan","bbox":[951.5,382,126,4]}
+{"kind":"shape","id":"sh/bq1oryts","slide":4,"name":"accent-red","bbox":[1077.5,382,76.5,4]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"name":"photo-label","text":"Фрагмент архивного документа","textPreview":"Фрагмент архивного документа","textChars":28,"textLines":1,"bbox":[732,433,394,34]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"name":"photo-sub","text":"приказ / стенограмма / постановление","textPreview":"приказ / стенограмма / постановление","textChars":36,"textLines":1,"bbox":[732,471,394,30]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,218,24,30]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"name":"bullet","text":"на сайте собраны реальные приказы, постановления и стенограммы","textPreview":"на сайте собраны реальные приказы, постановления и стенограммы","textChars":62,"textLines":1,"bbox":[108,220,528,46]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,280,24,30]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"name":"bullet","text":"документы показывают: успех не был случайностью","textPreview":"документы показывают: успех не был случайностью","textChars":47,"textLines":1,"bbox":[108,282,528,46]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,342,24,30]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"name":"bullet","text":"единый центр координировал министерства, КБ и заводы","textPreview":"единый центр координировал министерства, КБ и заводы","textChars":52,"textLines":1,"bbox":[108,344,528,46]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,404,24,30]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"name":"bullet","text":"это кейс по госуправлению в условиях дефицита времени","textPreview":"это кейс по госуправлению в условиях дефицита времени","textChars":53,"textLines":1,"bbox":[108,406,528,46]}
+{"kind":"notes","id":"nt/snwdeh","slide":4,"text":"Сергей: Самый важный раздел сайта - Документы.\nМы не хотели ограничиваться пересказом популярных статей, поэтому добавили реальные архивные материалы.\nКогда смотришь на эти документы, становится понятно: космос был не случайной удачей, а результатом точной координации государства, науки и промышленности."}
+{"kind":"slide","id":"sl/2me9r1","slide":5,"title":"Первый отряд космонавтов","textShapes":16}
+{"kind":"shape","id":"sh/4zidonyd","slide":5,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/fepkzupw","slide":5,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":5,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":5,"name":"eyebrow","text":"Первый отряд космонавтов","textPreview":"Первый отряд космонавтов","textChars":24,"textLines":1,"bbox":[72,44,620,28]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":5,"name":"title","text":"Люди космического прорыва","textPreview":"Люди космического прорыва","textChars":25,"textLines":1,"bbox":[72,82,860,96]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":5,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":5,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":5,"name":"photo-placeholder","bbox":[720,104,430,250]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":5,"name":"accent-gold","bbox":[720,104,236.5,4]}
+{"kind":"shape","id":"sh/vy90je9c","slide":5,"name":"accent-cyan","bbox":[956.5,104,120.4,4]}
+{"kind":"shape","id":"sh/oj2t83it","slide":5,"name":"accent-red","bbox":[1076.9,104,73.1,4]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":5,"name":"photo-label","text":"Портреты космонавтов","textPreview":"Портреты космонавтов","textChars":20,"textLines":1,"bbox":[748,195,374,34]}
+{"kind":"textbox","id":"sh/61032lsz","slide":5,"name":"photo-sub","text":"раздел «Отряд»","textPreview":"раздел «Отряд»","textChars":14,"textLines":1,"bbox":[748,233,374,30]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":5,"name":"photo-placeholder","bbox":[720,382,430,170]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":5,"name":"accent-gold","bbox":[720,382,236.5,4]}
+{"kind":"shape","id":"sh/dsji5sne","slide":5,"name":"accent-cyan","bbox":[956.5,382,120.4,4]}
+{"kind":"shape","id":"sh/6tovahoz","slide":5,"name":"accent-red","bbox":[1076.9,382,73.1,4]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":5,"name":"photo-label","text":"Карточка космонавта","textPreview":"Карточка космонавта","textChars":19,"textLines":1,"bbox":[748,433,374,34]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":5,"name":"photo-sub","text":"биография / миссии / вклад","textPreview":"биография / миссии / вклад","textChars":26,"textLines":1,"bbox":[748,471,374,30]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":5,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,218,24,30]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":5,"name":"bullet","text":"первые космонавты - результат строгого отбора по всей стране","textPreview":"первые космонавты - результат строгого отбора по всей стране","textChars":60,"textLines":1,"bbox":[108,220,538,46]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":5,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,280,24,30]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":5,"name":"bullet","text":"Гагарин стал символом страны и её возможностей","textPreview":"Гагарин стал символом страны и её возможностей","textChars":46,"textLines":1,"bbox":[108,282,538,46]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":5,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,342,24,30]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":5,"name":"bullet","text":"космос показал социальный лифт и ценность образования","textPreview":"космос показал социальный лифт и ценность образования","textChars":53,"textLines":1,"bbox":[108,344,538,46]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":5,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,404,24,30]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":5,"name":"bullet","text":"за государственными решениями всегда стоят конкретные люди","textPreview":"за государственными решениями всегда стоят конкретные люди","textChars":58,"textLines":1,"bbox":[108,406,538,46]}
+{"kind":"notes","id":"nt/2me9r1","slide":5,"text":"Иван: В разделе Отряд мы собрали информацию о первых космонавтах.\nЭто не только история техники, но и история людей: их искали, готовили и воспитывали по всей стране.\nЮрий Гагарин, человек из простой семьи, стал лицом великой державы и символом возможностей страны."}
+{"kind":"slide","id":"sl/latldl","slide":6,"title":"Космос не остался в прошлом","textShapes":16}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":6,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":6,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/94fu18jq","slide":6,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":6,"name":"eyebrow","text":"Космос не остался в прошлом","textPreview":"Космос не остался в прошлом","textChars":27,"textLines":1,"bbox":[72,44,620,28]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":6,"name":"title","text":"Преемственность сегодня","textPreview":"Преемственность сегодня","textChars":23,"textLines":1,"bbox":[72,82,860,96]}
+{"kind":"shape","id":"sh/gvy90je9","slide":6,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":6,"name":"photo-placeholder","bbox":[696,104,460,240]}
+{"kind":"shape","id":"sh/bulwval8","slide":6,"name":"accent-gold","bbox":[696,104,253,4]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":6,"name":"accent-cyan","bbox":[949,104,128.8,4]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":6,"name":"accent-red","bbox":[1077.8,104,78.2,4]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":6,"name":"photo-label","text":"Космодром «Восточный»","textPreview":"Космодром «Восточный»","textChars":21,"textLines":1,"bbox":[724,190,404,34]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":6,"name":"photo-sub","text":"место для современной фотографии","textPreview":"место для современной фотографии","textChars":32,"textLines":1,"bbox":[724,228,404,30]}
+{"kind":"shape","id":"sh/ixczed8v","slide":6,"name":"photo-placeholder","bbox":[696,372,460,180]}
+{"kind":"shape","id":"sh/tovahoza","slide":6,"name":"accent-gold","bbox":[696,372,253,4]}
+{"kind":"shape","id":"sh/032lszqt","slide":6,"name":"accent-cyan","bbox":[949,372,128.8,4]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":6,"name":"accent-red","bbox":[1077.8,372,78.2,4]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":6,"name":"photo-label","text":"Российская орбитальная станция","textPreview":"Российская орбитальная станция","textChars":30,"textLines":1,"bbox":[724,428,404,34]}
+{"kind":"textbox","id":"sh/ulwval87","slide":6,"name":"photo-sub","text":"модуль / схема / спутниковые системы","textPreview":"модуль / схема / спутниковые системы","textChars":36,"textLines":1,"bbox":[724,466,404,30]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":6,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,218,24,30]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":6,"name":"bullet","text":"космическая история России продолжается","textPreview":"космическая история России продолжается","textChars":39,"textLines":1,"bbox":[108,220,528,46]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":6,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,280,24,30]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":6,"name":"bullet","text":"Восточный, орбитальная станция и спутниковые системы","textPreview":"Восточный, орбитальная станция и спутниковые системы","textChars":52,"textLines":1,"bbox":[108,282,528,46]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":6,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,342,24,30]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":6,"name":"bullet","text":"космос связан с безопасностью, связью и научным развитием","textPreview":"космос связан с безопасностью, связью и научным развитием","textChars":57,"textLines":1,"bbox":[108,344,528,46]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":6,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[76,404,24,30]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":6,"name":"bullet","text":"это часть современного суверенитета страны","textPreview":"это часть современного суверенитета страны","textChars":42,"textLines":1,"bbox":[108,406,528,46]}
+{"kind":"notes","id":"nt/latldl","slide":6,"text":"Иван: Эта тема важна не только как память о прошлом.\nСегодня продолжаются космические проекты: Восточный, новая Российская орбитальная станция, спутниковые системы.\nКосмос остаётся частью технологического суверенитета, безопасности и научного развития страны."}
+{"kind":"slide","id":"sl/387dd2","slide":7,"title":"Итог проекта","textShapes":14}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":7,"name":"top-glow","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":7,"name":"right-band","bbox":[1000,0,280,720]}
+{"kind":"shape","id":"sh/yd0z6103","slide":7,"name":"gold-thread","bbox":[0,0,1280,5]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":7,"name":"final-title","text":"Итог проекта","textPreview":"Итог проекта","textChars":12,"textLines":1,"bbox":[72,82,680,70]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":7,"name":"final-subtitle","text":"Мы сделали не просто доклад, а образовательный цифровой продукт","textPreview":"Мы сделали не просто доклад, а образовательный цифровой продукт","textChars":63,"textLines":1,"bbox":[76,164,700,42]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":7,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[80,258,24,30]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":7,"name":"bullet","text":"сайт помогает изучать историю через разделы, документы и биографии","textPreview":"сайт помогает изучать историю через разделы, документы и биографии","textChars":66,"textLines":1,"bbox":[112,260,588,46]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":7,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[80,322,24,30]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":7,"name":"bullet","text":"проект показывает связь космоса с государственностью","textPreview":"проект показывает связь космоса с государственностью","textChars":52,"textLines":1,"bbox":[112,324,588,46]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"name":"bullet-dot","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[80,386,24,30]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":7,"name":"bullet","text":"материалы можно открыть и изучать самостоятельно","textPreview":"материалы можно открыть и изучать самостоятельно","textChars":48,"textLines":1,"bbox":[112,388,588,46]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":7,"name":"photo-placeholder","bbox":[805,150,260,260]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":7,"name":"accent-gold","bbox":[805,150,143,4]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":7,"name":"accent-cyan","bbox":[948,150,72.8,4]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":7,"name":"accent-red","bbox":[1020.8,150,44.2,4]}
+{"kind":"textbox","id":"sh/83itgfml","slide":7,"name":"photo-label","text":"QR-код сайта","textPreview":"QR-код сайта","textChars":12,"textLines":1,"bbox":[833,246,204,34]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":7,"name":"photo-sub","text":"заменить на QR реальной ссылки","textPreview":"заменить на QR реальной ссылки","textChars":30,"textLines":1,"bbox":[833,284,204,30]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":7,"name":"thanks","text":"Спасибо за внимание!","textPreview":"Спасибо за внимание!","textChars":20,"textLines":1,"bbox":[780,455,330,44]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":7,"name":"questions","text":"Готовы ответить на вопросы","textPreview":"Готовы ответить на вопросы","textChars":26,"textLines":1,"bbox":[775,504,340,28]}
+{"kind":"shape","id":"sh/72x4nap4","slide":7,"name":"rule","bbox":[72,654,1136,2]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":7,"name":"footer","text":"Цифровой музей | День космонавтики","textPreview":"Цифровой музей | День космонавтики","textChars":34,"textLines":1,"bbox":[72,670,520,24]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1136,666,72,30]}
+{"kind":"notes","id":"nt/387dd2","slide":7,"text":"Иван: В итоге у нас получился не просто доклад, а готовый образовательный продукт.\nЧерез сайт можно посмотреть хронологию, архивные документы, биографии космонавтов и понять, почему космос связан с темой государственности.\nБольшое спасибо за внимание! Мы готовы ответить на вопросы."}
